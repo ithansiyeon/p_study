@@ -93,7 +93,7 @@ print(car3.__dict__)
 print()
 print()
 
-# 리스트 서언
+# 리스트 선언
 car_list = []
 car_list.append(car1)
 car_list.append(car2)
